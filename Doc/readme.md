@@ -12,7 +12,7 @@
 
 @par Descrizione
 
-Questo esempio descrive una trasmissione tra UART in modalità di LIN con interruzioni si di una stessa
+Questo esempio descrive una trasmissione tra UART in modalità LIN con interruzioni su di una stessa
 board STM32F446 Nucleo-64.
 
 All'inizio del programma principale viene chiamata la funzione HAL_Init () per ripristinare tutte 
